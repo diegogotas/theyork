@@ -1,9 +1,17 @@
+.p10{
+    padding-right: 390px;
+}
 
 .container{
-    background-color: rgb(230, 220, 220);
+    background-color: rgb(223, 219, 219);
     text-align: center;
-    font-weight: 700px;
-    font-family: nyt-cheltenham,cheltenham-fallback-georgia,cheltenham-fallback-noto,georgia,'times new roman',times,serif;
+    font-family: cursive;
+    font-size: 50px;
+    box-sizing: content-box;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-bottom: 10px
+
 }
 .container1{
     background-color: rgb(255, 255, 255);
@@ -14,7 +22,6 @@
 }
 .btn1{
 border-radius: 3px;
-    cursor: pointer;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
@@ -27,6 +34,8 @@ border-radius: 3px;
     margin-right: 7px;
     margin-top: 10px;
     margin-left: 0px;
+    cursor:grab;
+
 }
 .LINK2{
     padding-left: 150px;
@@ -35,21 +44,57 @@ border-radius: 3px;
     width: auto;
     margin-bottom: 0px;
     font-family: nyt-franklin,helvetica,arial,sans-serif;
+    color: black;
 
 }
 .parra1{
-    padding-left: 520px;
-    padding-right: 700px;
-    margin-top: 10px;
+    padding-left: 510px;
+    padding-right: 650px;
+    margin-top: 0px;
     text-align: center;
     width: auto;
     margin-bottom:  0;
-    font-family: cheltenham, georgia, times, serif;
+    font-family:'UnifrakturCook', cursive;
+    font-size: 27px;
+}
 .container{
     background-color: rgb(230, 230, 230);
 }
 
+img{
+    width: 1000px;
+    height: 600px;
+}
 .container2{
-    height: 1100px;
-    width: 700px;
+    text-align: center;
+}
+.prr{
+    text-align: center;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    font-size: 10px;
+}
+.p1{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.p5{
+    text-align: justify;
+    font-size: 25px;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 0px;
+}
+.p2{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.p3{
+    padding-left: 400px;
+    padding-right: 400px;
+}.p4{
+    padding-left: 400px;
+    padding-right: 400px;
 }
